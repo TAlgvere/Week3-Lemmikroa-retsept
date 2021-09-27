@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Birthstone&family=Cherish&family=Lateef&display=swap');
+
+body {
+    background-color:silver;
+}
+
+.heading-1 {
+    color: royalblue;
+    text-align: center;
+    font-family: 'Lateef', cursive;
+}
+
+.picture-align {
+    text-align: center;
+}
+
+.lohe{
+    border-radius: 60%;
+    vertical-align: middle;
+    text-align: center;
+    width: 400px;
+}
+
+.heading-2{
+    color: royalblue;
+    text-align: center;
+    font-family: 'Lateef', cursive;
+}
+
+.ingridients {
+    color:gold;
+    text-align: middle;
+}
+
+.ingridients-table {
+    border: 2px solid black;
+    margin: 0% auto;
+}
+
+.heading-3{
+    color: royalblue;
+    text-align: center;
+    font-family: 'Lateef', cursive;
+}
+
+.instructions {
+    color: gold;
+    border: 5px double black;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.allikas{
+    text-align: center;
+}
+
+.footer{
+    color: indigo;
+    font-family: 'Amatic SC', cursive;
+    font-size: 20px;
+    text-align: center;
+}
